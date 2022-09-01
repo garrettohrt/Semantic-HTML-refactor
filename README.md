@@ -5,7 +5,7 @@
 ## About The Project
 This project was about refactoring semantic HTML and linking the corresponding changes to the css style sheet.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[_Users_garrettbootcamp_Challenge-01_Semantic-HTML-refactor_index html (2)](https://user-images.githubusercontent.com/109110256/187984376-c43fa8e9-249e-4250-9fad-9e34eae10048.png)(https://example.com)
 
 
 
